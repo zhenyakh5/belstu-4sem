@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <FullName>Kharchenko Evgeniy Igorevich</FullName>
+    <Country>Belarus</Country>
+    <ID>5</ID>
+  </Author>
+  <Author>
+    <FullName>Авчинник Елизавета Сергеевна</FullName>
+    <Country>Беларусь</Country>
+    <ID>1</ID>
+  </Author>
+  <Author>
+    <FullName>Бабашинский Глеб Александрович</FullName>
+    <Country>Беларусь</Country>
+    <ID>3</ID>
+  </Author>
+  <Author>
+    <FullName>Султанов Арсений Александрович</FullName>
+    <Country>Беларусь</Country>
+    <ID>2</ID>
+  </Author>
+  <Author>
+    <FullName>Харченко Евгений Игоревич</FullName>
+    <Country>Беларусь</Country>
+    <ID>4</ID>
+  </Author>
+</ArrayOfAuthor>

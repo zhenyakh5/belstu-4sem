@@ -1,0 +1,11 @@
+D:\4sem\oop\lab2\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+D:\4sem\oop\lab2\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\4sem\oop\lab2\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\4sem\oop\lab2\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\4sem\oop\lab2\MainForm\bin\Debug\MainForm.exe.config
+D:\4sem\oop\lab2\MainForm\bin\Debug\MainForm.exe
+D:\4sem\oop\lab2\MainForm\bin\Debug\MainForm.pdb
+D:\4sem\oop\lab2\MainForm\obj\Debug\MainForm.exe
+D:\4sem\oop\lab2\MainForm\obj\Debug\MainForm.pdb
+D:\4sem\oop\lab2\MainForm\obj\Debug\lab2.Form1.resources
+D:\4sem\oop\lab2\MainForm\obj\Debug\lab2.Form2.resources

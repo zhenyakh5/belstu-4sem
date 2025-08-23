@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Title>Азбука</Title>
+  <Publisher>Солнышко</Publisher>
+  <Year>2025</Year>
+  <FileSize>39</FileSize>
+  <Pages>48</Pages>
+  <Cost>35000</Cost>
+  <Genre>История</Genre>
+  <Authors>
+    <Author>
+      <FullName>Харченко Евгений Игоревич</FullName>
+      <Country>Беларусь</Country>
+      <ID>123</ID>
+    </Author>
+  </Authors>
+</BookFile>

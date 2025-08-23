@@ -1,0 +1,15 @@
+D:\4sem\pp\lab1-3\DALJSON\bin\Debug\net8.0\DALJSON.deps.json
+D:\4sem\pp\lab1-3\DALJSON\bin\Debug\net8.0\DALJSON.dll
+D:\4sem\pp\lab1-3\DALJSON\bin\Debug\net8.0\DALJSON.pdb
+D:\4sem\pp\lab1-3\DALJSON\bin\Debug\net8.0\REPO.dll
+D:\4sem\pp\lab1-3\DALJSON\bin\Debug\net8.0\REPO.pdb
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\DALJSON.csproj.AssemblyReference.cache
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\DALJSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\DALJSON.AssemblyInfoInputs.cache
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\DALJSON.AssemblyInfo.cs
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\DALJSON.csproj.CoreCompileInputs.cache
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\DALJSON.csproj.Up2Date
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\DALJSON.dll
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\refint\DALJSON.dll
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\DALJSON.pdb
+D:\4sem\pp\lab1-3\DALJSON\obj\Debug\net8.0\ref\DALJSON.dll

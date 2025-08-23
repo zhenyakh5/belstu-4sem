@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4sem\\oop\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|d:\\4sem\\oop\\lab3\\mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|D:\\4sem\\oop\\lab3\\mainform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|D:\\4sem\\oop\\lab3\\mainform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|D:\\4sem\\oop\\lab3\\mainform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|D:\\4sem\\oop\\lab3\\mainform\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|D:\\4sem\\oop\\lab3\\mainform\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|D:\\4sem\\oop\\lab3\\mainform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|D:\\4sem\\oop\\lab3\\mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|D:\\4sem\\oop\\lab3\\mainform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2155ADBB-AA8D-4477-8149-7902AEABB9B2}|MainForm\\MainForm.csproj|solutionrelative:mainform\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form3.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form3.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm\\Form3.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:41:25.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form3.Designer.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form3.Designer.cs",
+              "RelativeToolTip": "MainForm\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:03:23.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form3.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form3.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form3.cs",
+              "RelativeToolTip": "MainForm\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:55:19.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form1.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form1.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form1.cs",
+              "RelativeToolTip": "MainForm\\Form1.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAQwPwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:23:55.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form2.Designer.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form2.Designer.cs",
+              "RelativeToolTip": "MainForm\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:20:32.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form2.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form2.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form2.cs",
+              "RelativeToolTip": "MainForm\\Form2.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:24:45.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form2.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form2.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:24:38.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form1.Designer.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form1.Designer.cs",
+              "RelativeToolTip": "MainForm\\Form1.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:23:48.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab3\\MainForm\\Form1.cs",
+              "RelativeDocumentMoniker": "MainForm\\Form1.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab3\\MainForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MainForm\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:22:01.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

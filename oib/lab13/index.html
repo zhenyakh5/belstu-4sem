@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Криптографическое приложение</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .section {
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        .section-title {
+            color: #3498db;
+            margin-top: 0;
+        }
+        pre {
+            background-color: #eee;
+            padding: 10px;
+            border-radius: 3px;
+            overflow-x: auto;
+        }
+        .result {
+            font-weight: bold;
+            color: #27ae60;
+        }
+        .error {
+            color: #e74c3c;
+        }
+    </style>
+</head>
+<body>
+    <h1>Криптографическое приложение</h1>
+    
+    <div id="randomNumbers" class="section">
+        <h2 class="section-title">1. Генерация случайных чисел</h2>
+        <div id="randomNumbersResult"></div>
+    </div>
+    
+    <div id="encryption" class="section">
+        <h2 class="section-title">2. Шифрование и хеширование</h2>
+        <p>Исходная фамилия: <span id="originalSurname" class="result">Харченко Евгений Игоревич</span></p>
+        <div id="aesResults"></div>
+        <div id="hashResults"></div>
+    </div>
+    
+    <div id="keyWrapping" class="section">
+        <h2 class="section-title">3. Упаковка ключей AES-KW</h2>
+        <div id="keyWrapResults"></div>
+    </div>
+    
+    <div id="signature" class="section">
+        <h2 class="section-title">4. Цифровая подпись ECDSA</h2>
+        <div id="signatureResults"></div>
+    </div>
+
+    <script>
+        // Функция для вывода результатов на страницу
+        function displayResult(sectionId, title, content, isError = false) {
+            const section = document.getElementById(sectionId);
+            const div = document.createElement('div');
+            div.innerHTML = `<p><strong>${title}:</strong> <span class="${isError ? 'error' : 'result'}">${content}</span></p>`;
+            section.appendChild(div);
+        }
+
+        // 1. Генерация случайных чисел
+        const randomNumbers = new Uint8Array(10); // Массив из 10 байт
+        crypto.getRandomValues(randomNumbers);
+        document.getElementById('randomNumbersResult').innerHTML = `
+            <p>Сгенерированные случайные числа: <span class="result">${Array.from(randomNumbers).join(', ')}</span></p>
+        `;
+
+        // 2. Шифрование и хеширование фамилии
+        const surname = "Харченко Евгений Игоревич";
+
+        // Функция для шифрования и дешифрования AES-CTR
+        async function encryptDecryptAESCTR(text) {
+            try {
+                const encoder = new TextEncoder(); // Кодировщик
+                const data = encoder.encode(text);
+
+                // Генерация ключа AES-CTR (128 бит)
+                const key = await crypto.subtle.generateKey(
+                    { name: "AES-CTR", length: 128 },
+                    true,
+                    ["encrypt", "decrypt"]
+                );
+
+                // Генерация IV (16 байт)
+                const iv = crypto.getRandomValues(new Uint8Array(16));
+
+                // Шифрование
+                const encrypted = await crypto.subtle.encrypt(
+                    { name: "AES-CTR", counter: iv, length: 64 },
+                    key,
+                    data
+                );
+                const encryptedHex = Array.from(new Uint8Array(encrypted)).map(b => b.toString(16).padStart(2, '0')).join('');
+                
+                // Дешифрование
+                const decrypted = await crypto.subtle.decrypt(
+                    { name: "AES-CTR", counter: iv, length: 64 },
+                    key,
+                    encrypted
+                );
+                const decryptedText = new TextDecoder().decode(decrypted);
+
+                // Вывод результатов
+                document.getElementById('aesResults').innerHTML = `
+                    <p>Ключ AES (HEX): <span class="result">${Array.from(await crypto.subtle.exportKey('raw', key)).map(b => b.toString(16).padStart(2, '0')).join('')}</span></p>
+                    <p>IV (HEX): <span class="result">${Array.from(iv).map(b => b.toString(16).padStart(2, '0')).join('')}</span></p>
+                    <p>Зашифрованные данные (HEX): <span class="result">${encryptedHex}</span></p>
+                    <p>Расшифрованный текст: <span class="result">${decryptedText}</span></p>
+                `;
+            } catch (e) {
+                displayResult('aesResults', 'Ошибка AES-CTR', e.message, true);
+            }
+        }
+
+        // Функция для хеширования SHA-512
+        async function hashSHA512(text) {
+            try {
+                const encoder = new TextEncoder();
+                const data = encoder.encode(text);
+                const hashBuffer = await crypto.subtle.digest("SHA-512", data);
+                const hashHex = Array.from(new Uint8Array(hashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
+                
+                document.getElementById('hashResults').innerHTML = `
+                    <p>SHA-512 хеш: <span class="result">${hashHex}</span></p>
+                `;
+            } catch (e) {
+                displayResult('hashResults', 'Ошибка хеширования', e.message, true);
+            }
+        }
+
+        // 3. Упаковка и распаковка ключа AES-KW
+        async function wrapUnwrapKey() {
+            try {
+                // Генерация ключа для упаковки (AES-KW 256 бит)
+                const wrappingKey = await crypto.subtle.generateKey(
+                    { name: "AES-KW", length: 256 },
+                    true,
+                    ["wrapKey", "unwrapKey"]
+                );
+
+                // Генерация ключа для шифрования (AES-CTR 128 бит)
+                const keyToWrap = await crypto.subtle.generateKey(
+                    { name: "AES-CTR", length: 128 },
+                    true,
+                    ["encrypt", "decrypt"]
+                );
+
+                // Экспорт ключа в сыром формате перед упаковкой
+                const rawKey = await crypto.subtle.exportKey("raw", keyToWrap);
+                const rawKeyHex = Array.from(new Uint8Array(rawKey)).map(b => b.toString(16).padStart(2, '0')).join('');
+
+                // Упаковка ключа
+                const wrappedKey = await crypto.subtle.wrapKey(
+                    "raw",
+                    keyToWrap,
+                    wrappingKey,
+                    { name: "AES-KW" }
+                );
+                const wrappedKeyHex = Array.from(new Uint8Array(wrappedKey)).map(b => b.toString(16).padStart(2, '0')).join('');
+
+                // Распаковка ключа
+                const unwrappedKey = await crypto.subtle.unwrapKey(
+                    "raw",
+                    wrappedKey,
+                    wrappingKey,
+                    { name: "AES-KW" },
+                    { name: "AES-CTR", length: 128 },
+                    true,
+                    ["encrypt", "decrypt"]
+                );
+
+                // Проверка распакованного ключа
+                const unwrappedRawKey = await crypto.subtle.exportKey("raw", unwrappedKey);
+                const unwrappedKeyHex = Array.from(new Uint8Array(unwrappedRawKey)).map(b => b.toString(16).padStart(2, '0')).join('');
+
+                // Вывод результатов
+                document.getElementById('keyWrapResults').innerHTML = `
+                    <p>Ключ до упаковки (HEX): <span class="result">${rawKeyHex}</span></p>
+                    <p>Упакованный ключ (HEX): <span class="result">${wrappedKeyHex}</span></p>
+                    <p>Распакованный ключ (HEX): <span class="result">${unwrappedKeyHex}</span></p>
+                    <p>Состояние: <span class="result">${rawKeyHex === unwrappedKeyHex ? "Успешно - ключи совпадают" : "Ошибка - ключи не совпадают"}</span></p>
+                `;
+            } catch (e) {
+                displayResult('keyWrapResults', 'Ошибка упаковки ключей', e.message, true);
+            }
+        }
+
+        // 4. Цифровая подпись ECDSA
+        async function signVerifyMessage() {
+            try {
+                // Генерация пары ключей ECDSA
+                const keyPair = await crypto.subtle.generateKey(
+                    { name: "ECDSA", namedCurve: "P-256" },
+                    true,
+                    ["sign", "verify"]
+                );
+
+                const message = new TextEncoder().encode(surname);
+
+                // Подписание сообщения
+                const signature = await crypto.subtle.sign(
+                    { name: "ECDSA", hash: { name: "SHA-512" } },
+                    keyPair.privateKey,
+                    message
+                );
+                const signatureHex = Array.from(new Uint8Array(signature)).map(b => b.toString(16).padStart(2, '0')).join('');
+
+                // Проверка подписи
+                const isValid = await crypto.subtle.verify(
+                    { name: "ECDSA", hash: { name: "SHA-512" } },
+                    keyPair.publicKey,
+                    signature,
+                    message
+                );
+
+                // Проверка с измененным сообщением (должно вернуть false)
+                const fakeMessage = new TextEncoder().encode("Поддельное сообщение");
+                const isFakeValid = await crypto.subtle.verify(
+                    { name: "ECDSA", hash: { name: "SHA-512" } },
+                    keyPair.publicKey,
+                    signature,
+                    fakeMessage
+                );
+
+                // Вывод результатов
+                document.getElementById('signatureResults').innerHTML = `
+                    <p>Подпись (HEX): <span class="result">${signatureHex}</span></p>
+                    <p>Проверка подписи: <span class="result">${isValid ? "Успешно" : "Не удалось"}</span></p>
+                    <p>Проверка подписи с измененным сообщением: <span class="result">${isFakeValid ? "ОШИБКА: Подпись подтверждена для неверного сообщения" : "Ожидаемо: подпись не подтверждена"}</span></p>
+                `;
+            } catch (e) {
+                displayResult('signatureResults', 'Ошибка цифровой подписи', e.message, true);
+            }
+        }
+
+        // Запуск всех функций
+        (async () => {
+            await encryptDecryptAESCTR(surname);
+            await hashSHA512(surname);
+            await wrapUnwrapKey();
+            await signVerifyMessage();
+        })();
+    </script>
+</body>
+</html>

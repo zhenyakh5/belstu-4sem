@@ -1,0 +1,28 @@
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\bin\Debug\net8.0\LAB12.exe
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\bin\Debug\net8.0\LAB12.deps.json
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\bin\Debug\net8.0\LAB12.runtimeconfig.json
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\bin\Debug\net8.0\LAB12.dll
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\bin\Debug\net8.0\LAB12.pdb
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\LAB12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\LAB12.AssemblyInfoInputs.cache
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\LAB12.AssemblyInfo.cs
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\LAB12.csproj.CoreCompileInputs.cache
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\LAB12.dll
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\refint\LAB12.dll
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\LAB12.pdb
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\LAB12.genruntimeconfig.cache
+D:\Program\sem4\Основы информационной безопасности\LAB12\LAB12\obj\Debug\net8.0\ref\LAB12.dll
+D:\4sem\oib\lab12\LAB12\bin\Debug\net8.0\LAB12.exe
+D:\4sem\oib\lab12\LAB12\bin\Debug\net8.0\LAB12.deps.json
+D:\4sem\oib\lab12\LAB12\bin\Debug\net8.0\LAB12.runtimeconfig.json
+D:\4sem\oib\lab12\LAB12\bin\Debug\net8.0\LAB12.dll
+D:\4sem\oib\lab12\LAB12\bin\Debug\net8.0\LAB12.pdb
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\LAB12.GeneratedMSBuildEditorConfig.editorconfig
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\LAB12.AssemblyInfoInputs.cache
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\LAB12.AssemblyInfo.cs
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\LAB12.csproj.CoreCompileInputs.cache
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\LAB12.dll
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\refint\LAB12.dll
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\LAB12.pdb
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\LAB12.genruntimeconfig.cache
+D:\4sem\oib\lab12\LAB12\obj\Debug\net8.0\ref\LAB12.dll

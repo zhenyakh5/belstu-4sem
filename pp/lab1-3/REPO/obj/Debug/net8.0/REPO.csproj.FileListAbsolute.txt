@@ -1,0 +1,11 @@
+D:\4sem\pp\lab1-3\REPO\bin\Debug\net8.0\REPO.deps.json
+D:\4sem\pp\lab1-3\REPO\bin\Debug\net8.0\REPO.dll
+D:\4sem\pp\lab1-3\REPO\bin\Debug\net8.0\REPO.pdb
+D:\4sem\pp\lab1-3\REPO\obj\Debug\net8.0\REPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\4sem\pp\lab1-3\REPO\obj\Debug\net8.0\REPO.AssemblyInfoInputs.cache
+D:\4sem\pp\lab1-3\REPO\obj\Debug\net8.0\REPO.AssemblyInfo.cs
+D:\4sem\pp\lab1-3\REPO\obj\Debug\net8.0\REPO.csproj.CoreCompileInputs.cache
+D:\4sem\pp\lab1-3\REPO\obj\Debug\net8.0\REPO.dll
+D:\4sem\pp\lab1-3\REPO\obj\Debug\net8.0\refint\REPO.dll
+D:\4sem\pp\lab1-3\REPO\obj\Debug\net8.0\REPO.pdb
+D:\4sem\pp\lab1-3\REPO\obj\Debug\net8.0\ref\REPO.dll

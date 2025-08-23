@@ -1,0 +1,10 @@
+D:\4sem\oib\colloquium\EDS\bin\Debug\EDS.exe.config
+D:\4sem\oib\colloquium\EDS\bin\Debug\EDS.exe
+D:\4sem\oib\colloquium\EDS\bin\Debug\EDS.pdb
+D:\4sem\oib\colloquium\EDS\obj\Debug\EDS.csproj.AssemblyReference.cache
+D:\4sem\oib\colloquium\EDS\obj\Debug\EDS.csproj.CoreCompileInputs.cache
+D:\4sem\oib\colloquium\EDS\obj\Debug\EDS.exe
+D:\4sem\oib\colloquium\EDS\obj\Debug\EDS.pdb
+D:\4sem\oib\colloquium\EDS\bin\Debug\BouncyCastle.Crypto.dll
+D:\4sem\oib\colloquium\EDS\bin\Debug\BouncyCastle.Crypto.xml
+D:\4sem\oib\colloquium\EDS\obj\Debug\EDS.csproj.Up2Date

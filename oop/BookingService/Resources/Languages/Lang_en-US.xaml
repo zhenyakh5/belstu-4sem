@@ -1,0 +1,64 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="AppTitle">BookingService</system:String>
+    <system:String x:Key="ChangeLanguageButton">Change Language</system:String>
+    <system:String x:Key="CancelButton">Cancel</system:String>
+    <system:String x:Key="SearchLabel">Search</system:String>
+    <system:String x:Key="SortLabel">Sort</system:String>
+
+    <system:String x:Key="LoginWindowTitle">BookingService - Authorization</system:String>
+    <system:String x:Key="LoginHeader">Login</system:String>
+    <system:String x:Key="UsernameLabel">Username:</system:String>
+    <system:String x:Key="PasswordLabel">Password:</system:String>
+    <system:String x:Key="LoginButton">Login</system:String>
+    <system:String x:Key="RegisterButton">Register</system:String>
+
+    <system:String x:Key="RegisterWindowTitle">BookingService - Registration</system:String>
+    <system:String x:Key="RegisterHeader">Registration</system:String>
+    <system:String x:Key="RegisterSubmitButton">Register</system:String>
+
+    <system:String x:Key="MainWindowTitle">BookingService - Main</system:String>
+    <system:String x:Key="AdminPanelButton">Admin</system:String>
+    <system:String x:Key="AlphabetSortButton">Alph</system:String>
+    <system:String x:Key="CostAscSortButton">Price ↑</system:String>
+    <system:String x:Key="CostDescSortButton">Price ↓</system:String>
+
+    <system:String x:Key="AdminPanelTitle">BookingService - Admin Panel</system:String>
+    <system:String x:Key="AdminPanelHeader">Admin Panel</system:String>
+    <system:String x:Key="AddRoomButton">Add Room</system:String>
+    <system:String x:Key="EditRoomButton">Edit Room</system:String>
+    <system:String x:Key="DeleteRoomButton">Delete Room</system:String>
+
+    <system:String x:Key="AddRoomTitle">BookingService - Add Room</system:String>
+    <system:String x:Key="EditRoomTitle">BookingService - Edit Room</system:String>
+    <system:String x:Key="NameLabel">Name:</system:String>
+    <system:String x:Key="ShortDescriptionLabel">Short description:</system:String>
+    <system:String x:Key="FullDescriptionLabel">Full description:</system:String>
+    <system:String x:Key="CategoryLabel">Category:</system:String>
+    <system:String x:Key="RatingLabel">Rating (0-5):</system:String>
+    <system:String x:Key="PriceLabel">Price per night:</system:String>
+    <system:String x:Key="BedsLabel">Number of beds:</system:String>
+    <system:String x:Key="StarsLabel">Stars (1-5):</system:String>
+    <system:String x:Key="AmenitiesLabel">Amenities (comma separated):</system:String>
+    <system:String x:Key="BalconyLabel">Has balcony:</system:String>
+    <system:String x:Key="NonSmokingLabel">Non-smoking:</system:String>
+    <system:String x:Key="ImagePathLabel">Image path:</system:String>
+    <system:String x:Key="BrowseButton">Browse</system:String>
+    <system:String x:Key="SaveButton">Save</system:String>
+    <system:String x:Key="AddButton">Add</system:String>
+    <system:String x:Key="NightLabel">night</system:String>
+    <system:String x:Key="SeparatorLabel"> |</system:String>
+
+    <system:String x:Key="DeleteRoomTitle">BookingService - Delete Room</system:String>
+    <system:String x:Key="SearchButton">Search</system:String>
+    <system:String x:Key="SelectedRoomLabel">Selected room:</system:String>
+    <system:String x:Key="DeleteButton">Delete</system:String>
+
+    <system:String x:Key="ProfileHeader">Profile</system:String>
+    <system:String x:Key="ThemeLabel">Theme</system:String>
+    <system:String x:Key="LanguageLabel">Language</system:String>
+
+    <system:String x:Key="RefreshButton">Refresh</system:String>
+</ResourceDictionary>

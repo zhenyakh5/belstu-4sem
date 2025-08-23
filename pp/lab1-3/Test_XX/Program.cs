@@ -1,0 +1,84 @@
+﻿using REPO;
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Init");
+
+        DAL.Init.Execute();
+
+        Console.WriteLine("Start DAL");
+        using (IRepository repo = DAL.Repository.Create())
+        {
+            repo.getAllWSRef().ForEach(wsRef =>
+            {
+                Console.WriteLine($"WSRefs: {wsRef.Id}: {wsRef.Url}, {wsRef.Description}, {wsRef.Minus}, {wsRef.Plus}");
+            });
+
+            repo.getAllComment().ForEach(comment =>
+            {
+                Console.WriteLine($"Comments: {comment.Commtext}, {comment.Stamp}, {comment.WSrefId}");
+            });
+
+            if (repo.addWSRef(new WSRef() { Url = "https://www.belstu.by", Description = "БГТУ", Minus = 0, Plus = 0 })) Console.WriteLine("WSRefs: Add");
+            else Console.WriteLine("WSRefs: Error Add");
+
+            if (repo.addComment(new Comment() { WSrefId = 3, Commtext = "test", Stamp = DateTime.Now })) Console.WriteLine("Comments: Add");
+            else Console.WriteLine("Comments: Error Add");
+
+            Console.WriteLine("After addWSRef, addComment");
+
+            repo.getAllWSRef().ForEach(wsRef =>
+            {
+                Console.WriteLine($"WSRefs: {wsRef.Id}: {wsRef.Url}, {wsRef.Description}, {wsRef.Minus}, {wsRef.Plus}");
+            });
+
+            repo.getAllComment().ForEach(comment =>
+            {
+                Console.WriteLine($"Comments: {comment.Commtext}, {comment.Stamp}, {comment.WSrefId}");
+            });
+
+        }
+        Console.WriteLine("Finish");
+        Console.ReadLine();
+
+        Console.WriteLine("Init");
+
+        DALJSON.Init.Execute();
+
+        Console.WriteLine("Start DALJSON");
+        using (IRepository repo = DALJSON.Repository.Create())
+        {
+            repo.getAllWSRef().ForEach(wsRef =>
+            {
+                Console.WriteLine($"WSRefs: {wsRef.Id}: {wsRef.Url}, {wsRef.Description}, {wsRef.Minus}, {wsRef.Plus}");
+            });
+
+            repo.getAllComment().ForEach(comment =>
+            {
+                Console.WriteLine($"Comments: {comment.Commtext}, {comment.Stamp}, {comment.WSrefId}");
+            });
+
+            if (repo.addWSRef(new WSRef() { Url = "https://www.belstu.by", Description = "БГТУ", Minus = 0, Plus = 0 })) Console.WriteLine("WSRefs: Add");
+            else Console.WriteLine("WSRefs: Error Add");
+
+            if (repo.addComment(new Comment() { WSrefId = 3, Commtext = "test", Stamp = DateTime.Now })) Console.WriteLine("Comments: Add");
+            else Console.WriteLine("Comments: Error Add");
+
+            Console.WriteLine("After addWSRef, addComment");
+
+            repo.getAllWSRef().ForEach(wsRef =>
+            {
+                Console.WriteLine($"WSRefs: {wsRef.Id}: {wsRef.Url}, {wsRef.Description}, {wsRef.Minus}, {wsRef.Plus}");
+            });
+
+            repo.getAllComment().ForEach(comment =>
+            {
+                Console.WriteLine($"Comments: {comment.Commtext}, {comment.Stamp}, {comment.WSrefId}");
+            });
+        }
+        Console.WriteLine("Finish");
+        Console.ReadLine();
+    }
+}

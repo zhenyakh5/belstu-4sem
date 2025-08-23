@@ -1,0 +1,30 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Основные цвета (на 50% темнее светлой темы) -->
+    <Color x:Key="PrimaryColor">#FF5C4226</Color>
+    <!-- Было #FFB3844D -->
+    <Color x:Key="SecondaryColor">#FF7B5D3A</Color>
+    <!-- Было #FFF7CA94 -->
+    <Color x:Key="AccentColor">#FF6E5215</Color>
+    <!-- Было #FFDCA543 -->
+    <Color x:Key="LightAccentColor">#FF634F2E</Color>
+    <!-- Было #FFC79F70 -->
+    <Color x:Key="ErrorColor">#FF6C1A17</Color>
+    <!-- Было #FFD9534F -->
+
+    <!-- Текст и фон -->
+    <Color x:Key="TextColor">#FFA0A0A0</Color>
+    <!-- Светло-серый (не pure white) -->
+    <Color x:Key="BackgroundColor">#FF0D0D0D</Color>
+    <!-- Почти чёрный -->
+
+    <!-- Кисти -->
+    <SolidColorBrush x:Key="PrimaryBrush" Color="{DynamicResource PrimaryColor}"/>
+    <SolidColorBrush x:Key="SecondaryBrush" Color="{DynamicResource SecondaryColor}"/>
+    <SolidColorBrush x:Key="AccentBrush" Color="{DynamicResource AccentColor}"/>
+    <SolidColorBrush x:Key="LightAccentBrush" Color="{DynamicResource LightAccentColor}"/>
+    <SolidColorBrush x:Key="ErrorBrush" Color="{DynamicResource ErrorColor}"/>
+    <SolidColorBrush x:Key="TextBrush" Color="{DynamicResource TextColor}"/>
+    <SolidColorBrush x:Key="WhiteBrush" Color="{DynamicResource BackgroundColor}"/>
+    <SolidColorBrush x:Key="WindowBackgroundBrush" Color="{DynamicResource BackgroundColor}"/>
+</ResourceDictionary>

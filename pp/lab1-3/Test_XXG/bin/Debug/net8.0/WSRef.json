@@ -1,0 +1,185 @@
+[
+  {
+    "Id": 1,
+    "Url": "https://www.oracle.com",
+    "Description": "Oracle, DMBS, PL/SQL",
+    "Plus": 3,
+    "Minus": 1,
+    "Comments": [
+      {
+        "Id": 0,
+        "Stamp": "2025-03-25T15:32:04.0855491+03:00",
+        "Commtext": "very useful link",
+        "WSrefId": 1,
+        "WSref": null
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Url": "https://jakarta.ee/",
+    "Description": "Java, Jakarta, Java SE, J2EE",
+    "Plus": 5,
+    "Minus": 2,
+    "Comments": [
+      {
+        "Id": 0,
+        "Stamp": "2025-03-25T15:32:04.105108+03:00",
+        "Commtext": "deprecated information",
+        "WSrefId": 2,
+        "WSref": null
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": [
+      {
+        "Id": 0,
+        "Stamp": "2025-03-25T15:32:04.1404757+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-03-25T15:53:37.1743907+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-04-07T22:28:01.5395002+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-04-07T22:29:32.0597285+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-04-08T15:10:29.2999385+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-04-08T15:10:54.1526762+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-04-08T15:42:30.2407549+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-04-08T15:43:09.0915129+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-04-08T15:48:30.002229+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      },
+      {
+        "Id": 0,
+        "Stamp": "2025-04-08T16:00:38.4436767+03:00",
+        "Commtext": "test",
+        "WSrefId": 3,
+        "WSref": null
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  },
+  {
+    "Id": 5,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  },
+  {
+    "Id": 6,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  },
+  {
+    "Id": 7,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  },
+  {
+    "Id": 8,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  },
+  {
+    "Id": 9,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  },
+  {
+    "Id": 10,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  },
+  {
+    "Id": 11,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  },
+  {
+    "Id": 12,
+    "Url": "https://www.belstu.by",
+    "Description": "\u0411\u0413\u0422\u0423",
+    "Plus": 0,
+    "Minus": 0,
+    "Comments": null
+  }
+]

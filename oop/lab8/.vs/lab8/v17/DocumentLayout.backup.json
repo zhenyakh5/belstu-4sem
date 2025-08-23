@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4sem\\oop\\lab8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|d:\\4sem\\oop\\lab8\\views\\usersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:views\\usersview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\dialogs\\edituserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:dialogs\\edituserdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\dialogs\\editroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:dialogs\\editroomdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\dialogs\\editbookingdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:dialogs\\editbookingdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\views\\bookingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:views\\bookingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\views\\roomsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:views\\roomsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\dialogs\\edituserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:dialogs\\edituserdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\dialogs\\editroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:dialogs\\editroomdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\dialogs\\editbookingdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:dialogs\\editbookingdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\views\\roomsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:views\\roomsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\views\\bookingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:views\\bookingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\views\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:views\\usersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|D:\\4sem\\oop\\lab8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7562927-F40B-478F-97EE-F81EEEF882CB}|lab8.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditUserDialog.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Dialogs\\EditUserDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Dialogs\\EditUserDialog.xaml.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Dialogs\\EditUserDialog.xaml.cs",
+              "RelativeToolTip": "Dialogs\\EditUserDialog.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:20:27.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditRoomDialog.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Dialogs\\EditRoomDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Dialogs\\EditRoomDialog.xaml.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Dialogs\\EditRoomDialog.xaml.cs",
+              "RelativeToolTip": "Dialogs\\EditRoomDialog.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:23:19.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:09:27.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditBookingDialog.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Dialogs\\EditBookingDialog.xaml.cs",
+              "RelativeDocumentMoniker": "Dialogs\\EditBookingDialog.xaml.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Dialogs\\EditBookingDialog.xaml.cs",
+              "RelativeToolTip": "Dialogs\\EditBookingDialog.xaml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:30:39.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-23T19:08:18.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersView.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Views\\UsersView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\UsersView.xaml.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Views\\UsersView.xaml.cs",
+              "RelativeToolTip": "Views\\UsersView.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:19:16.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingsView.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Views\\BookingsView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\BookingsView.xaml.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Views\\BookingsView.xaml.cs",
+              "RelativeToolTip": "Views\\BookingsView.xaml.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAEwK8AAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:29:41.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomsView.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Views\\RoomsView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\RoomsView.xaml.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Views\\RoomsView.xaml.cs",
+              "RelativeToolTip": "Views\\RoomsView.xaml.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAAAF4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:20:54.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditUserDialog.xaml",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Dialogs\\EditUserDialog.xaml",
+              "RelativeDocumentMoniker": "Dialogs\\EditUserDialog.xaml",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Dialogs\\EditUserDialog.xaml",
+              "RelativeToolTip": "Dialogs\\EditUserDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:20:12.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditRoomDialog.xaml",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Dialogs\\EditRoomDialog.xaml",
+              "RelativeDocumentMoniker": "Dialogs\\EditRoomDialog.xaml",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Dialogs\\EditRoomDialog.xaml",
+              "RelativeToolTip": "Dialogs\\EditRoomDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:23:11.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditBookingDialog.xaml",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Dialogs\\EditBookingDialog.xaml",
+              "RelativeDocumentMoniker": "Dialogs\\EditBookingDialog.xaml",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Dialogs\\EditBookingDialog.xaml",
+              "RelativeToolTip": "Dialogs\\EditBookingDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:30:03.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomsView.xaml",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Views\\RoomsView.xaml",
+              "RelativeDocumentMoniker": "Views\\RoomsView.xaml",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Views\\RoomsView.xaml",
+              "RelativeToolTip": "Views\\RoomsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:20:46.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingsView.xaml",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Views\\BookingsView.xaml",
+              "RelativeDocumentMoniker": "Views\\BookingsView.xaml",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Views\\BookingsView.xaml",
+              "RelativeToolTip": "Views\\BookingsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:29:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersView.xaml",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\Views\\UsersView.xaml",
+              "RelativeDocumentMoniker": "Views\\UsersView.xaml",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\Views\\UsersView.xaml",
+              "RelativeToolTip": "Views\\UsersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:19:06.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-23T19:05:39.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\oop\\lab8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\4sem\\oop\\lab8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T19:05:38.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

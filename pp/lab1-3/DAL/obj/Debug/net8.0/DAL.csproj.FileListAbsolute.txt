@@ -1,0 +1,15 @@
+D:\4sem\pp\lab1-3\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\4sem\pp\lab1-3\DAL\bin\Debug\net8.0\DAL.dll
+D:\4sem\pp\lab1-3\DAL\bin\Debug\net8.0\DAL.pdb
+D:\4sem\pp\lab1-3\DAL\bin\Debug\net8.0\REPO.dll
+D:\4sem\pp\lab1-3\DAL\bin\Debug\net8.0\REPO.pdb
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\DAL.dll
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\DAL.pdb
+D:\4sem\pp\lab1-3\DAL\obj\Debug\net8.0\ref\DAL.dll

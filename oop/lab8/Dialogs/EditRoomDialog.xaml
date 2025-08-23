@@ -1,0 +1,60 @@
+﻿<Window x:Class="HotelManagement.EditRoomDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редактирование номера" Height="500" Width="400"
+        WindowStartupLocation="CenterOwner">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Номер комнаты:" Grid.Row="0"/>
+        <TextBox x:Name="RoomNumberTextBox" Grid.Row="1" Margin="0,0,0,10"/>
+
+        <Label Content="Категория:" Grid.Row="2"/>
+        <ComboBox x:Name="CategoryComboBox" Grid.Row="3" Margin="0,0,0,10"/>
+
+        <Label Content="Этаж:" Grid.Row="4"/>
+        <TextBox x:Name="FloorTextBox" Grid.Row="5" Margin="0,0,0,10"/>
+
+        <Label Content="Вместимость:" Grid.Row="6"/>
+        <TextBox x:Name="CapacityTextBox" Grid.Row="7" Margin="0,0,0,10"/>
+
+        <Label Content="Описание:" Grid.Row="8"/>
+        <TextBox x:Name="DescriptionTextBox" Grid.Row="8" Margin="0,2,0,10" VerticalAlignment="Top" Width="303" HorizontalAlignment="Right"/>
+
+        <Label Content="Удобства:" Grid.Row="9"/>
+        <TextBox x:Name="AmenitiesTextBox" Grid.Row="9" Margin="0,5,0,10" HorizontalAlignment="Right" Width="300"/>
+
+        <Label Content="Статус:" Grid.Row="12"/>
+        <ComboBox x:Name="StatusComboBox" Grid.Row="13" Margin="0,0,0,10"/>
+
+        <Label Content="Изображение:" Grid.Row="14"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="15">
+            <Button Content="Выбрать..." Click="SelectImage_Click" Margin="0,0,10,0"/>
+            <Image x:Name="RoomImage" Width="100" Height="100" Stretch="UniformToFill"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="16">
+            <Button Content="OK" IsDefault="True" Width="80" Margin="0,0,10,0" Click="OKButton_Click"/>
+            <Button Content="Отмена" IsCancel="True" Width="80"/>
+        </StackPanel>
+    </Grid>
+</Window>

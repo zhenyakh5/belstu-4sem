@@ -1,0 +1,10 @@
+D:\4sem\oib\colloquium\RSA\bin\Debug\RSA.exe.config
+D:\4sem\oib\colloquium\RSA\bin\Debug\RSA.exe
+D:\4sem\oib\colloquium\RSA\bin\Debug\RSA.pdb
+D:\4sem\oib\colloquium\RSA\bin\Debug\BouncyCastle.Crypto.dll
+D:\4sem\oib\colloquium\RSA\bin\Debug\BouncyCastle.Crypto.xml
+D:\4sem\oib\colloquium\RSA\obj\Debug\Algorythms.csproj.AssemblyReference.cache
+D:\4sem\oib\colloquium\RSA\obj\Debug\Algorythms.csproj.CoreCompileInputs.cache
+D:\4sem\oib\colloquium\RSA\obj\Debug\Algorythms.csproj.Up2Date
+D:\4sem\oib\colloquium\RSA\obj\Debug\RSA.exe
+D:\4sem\oib\colloquium\RSA\obj\Debug\RSA.pdb

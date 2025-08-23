@@ -1,0 +1,15 @@
+D:\4sem\pp\lab1-3\DALMSQLXG\bin\Debug\net8.0\DALMSQLXG.deps.json
+D:\4sem\pp\lab1-3\DALMSQLXG\bin\Debug\net8.0\DALMSQLXG.dll
+D:\4sem\pp\lab1-3\DALMSQLXG\bin\Debug\net8.0\DALMSQLXG.pdb
+D:\4sem\pp\lab1-3\DALMSQLXG\bin\Debug\net8.0\GREPO.dll
+D:\4sem\pp\lab1-3\DALMSQLXG\bin\Debug\net8.0\GREPO.pdb
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.csproj.AssemblyReference.cache
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.GeneratedMSBuildEditorConfig.editorconfig
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.AssemblyInfoInputs.cache
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.AssemblyInfo.cs
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.csproj.CoreCompileInputs.cache
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.csproj.Up2Date
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.dll
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\refint\DALMSQLXG.dll
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\DALMSQLXG.pdb
+D:\4sem\pp\lab1-3\DALMSQLXG\obj\Debug\net8.0\ref\DALMSQLXG.dll

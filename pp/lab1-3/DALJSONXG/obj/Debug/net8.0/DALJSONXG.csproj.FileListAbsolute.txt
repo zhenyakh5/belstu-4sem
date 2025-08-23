@@ -1,0 +1,15 @@
+D:\4sem\pp\lab1-3\DALJSONXG\bin\Debug\net8.0\DALJSONXG.deps.json
+D:\4sem\pp\lab1-3\DALJSONXG\bin\Debug\net8.0\DALJSONXG.dll
+D:\4sem\pp\lab1-3\DALJSONXG\bin\Debug\net8.0\DALJSONXG.pdb
+D:\4sem\pp\lab1-3\DALJSONXG\bin\Debug\net8.0\GREPO.dll
+D:\4sem\pp\lab1-3\DALJSONXG\bin\Debug\net8.0\GREPO.pdb
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\DALJSONXG.csproj.AssemblyReference.cache
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\DALJSONXG.GeneratedMSBuildEditorConfig.editorconfig
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\DALJSONXG.AssemblyInfoInputs.cache
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\DALJSONXG.AssemblyInfo.cs
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\DALJSONXG.csproj.CoreCompileInputs.cache
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\DALJSONXG.csproj.Up2Date
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\DALJSONXG.dll
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\refint\DALJSONXG.dll
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\DALJSONXG.pdb
+D:\4sem\pp\lab1-3\DALJSONXG\obj\Debug\net8.0\ref\DALJSONXG.dll

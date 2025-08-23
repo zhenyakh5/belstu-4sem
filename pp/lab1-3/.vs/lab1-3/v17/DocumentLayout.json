@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4sem\\pp\\lab1-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB4E7FC-F8A1-4F8F-AAB7-EF4847E3E5F9}|DAL\\DAL.csproj|d:\\4sem\\pp\\lab1-3\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB4E7FC-F8A1-4F8F-AAB7-EF4847E3E5F9}|DAL\\DAL.csproj|solutionrelative:dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13350BE0-D478-4555-8F49-0FACFA95EA7F}|DALJSON\\DALJSON.csproj|d:\\4sem\\pp\\lab1-3\\daljson\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13350BE0-D478-4555-8F49-0FACFA95EA7F}|DALJSON\\DALJSON.csproj|solutionrelative:daljson\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF223461-BABA-4BD0-A056-55A0FAAB1273}|Test_XXG\\Test_XXG.csproj|d:\\4sem\\pp\\lab1-3\\test_xxg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF223461-BABA-4BD0-A056-55A0FAAB1273}|Test_XXG\\Test_XXG.csproj|solutionrelative:test_xxg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17874909-A1D2-4648-AD61-821F500B6F38}|DALJSONXG\\DALJSONXG.csproj|d:\\4sem\\pp\\lab1-3\\daljsonxg\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17874909-A1D2-4648-AD61-821F500B6F38}|DALJSONXG\\DALJSONXG.csproj|solutionrelative:daljsonxg\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17874909-A1D2-4648-AD61-821F500B6F38}|DALJSONXG\\DALJSONXG.csproj|d:\\4sem\\pp\\lab1-3\\daljsonxg\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17874909-A1D2-4648-AD61-821F500B6F38}|DALJSONXG\\DALJSONXG.csproj|solutionrelative:daljsonxg\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37B543F-CCBD-4D1E-B211-581C33004C63}|DALMSQLXG\\DALMSQLXG.csproj|d:\\4sem\\pp\\lab1-3\\dalmsqlxg\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37B543F-CCBD-4D1E-B211-581C33004C63}|DALMSQLXG\\DALMSQLXG.csproj|solutionrelative:dalmsqlxg\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17874909-A1D2-4648-AD61-821F500B6F38}|DALJSONXG\\DALJSONXG.csproj|d:\\4sem\\pp\\lab1-3\\daljsonxg\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17874909-A1D2-4648-AD61-821F500B6F38}|DALJSONXG\\DALJSONXG.csproj|solutionrelative:daljsonxg\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\4sem\\pp\\lab1-3\\DAL\\Context.cs",
+              "RelativeDocumentMoniker": "DAL\\Context.cs",
+              "ToolTip": "D:\\4sem\\pp\\lab1-3\\DAL\\Context.cs",
+              "RelativeToolTip": "DAL\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:03:46.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\4sem\\pp\\lab1-3\\DALJSON\\Context.cs",
+              "RelativeDocumentMoniker": "DALJSON\\Context.cs",
+              "ToolTip": "D:\\4sem\\pp\\lab1-3\\DALJSON\\Context.cs",
+              "RelativeToolTip": "DALJSON\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:03:41.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\4sem\\pp\\lab1-3\\DALJSONXG\\Context.cs",
+              "RelativeDocumentMoniker": "DALJSONXG\\Context.cs",
+              "ToolTip": "D:\\4sem\\pp\\lab1-3\\DALJSONXG\\Context.cs",
+              "RelativeToolTip": "DALJSONXG\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:21:09.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Init.cs",
+              "DocumentMoniker": "D:\\4sem\\pp\\lab1-3\\DALJSONXG\\Init.cs",
+              "RelativeDocumentMoniker": "DALJSONXG\\Init.cs",
+              "ToolTip": "D:\\4sem\\pp\\lab1-3\\DALJSONXG\\Init.cs",
+              "RelativeToolTip": "DALJSONXG\\Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:21:04.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\4sem\\pp\\lab1-3\\DALMSQLXG\\Repository.cs",
+              "RelativeDocumentMoniker": "DALMSQLXG\\Repository.cs",
+              "ToolTip": "D:\\4sem\\pp\\lab1-3\\DALMSQLXG\\Repository.cs",
+              "RelativeToolTip": "DALMSQLXG\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:19:15.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\4sem\\pp\\lab1-3\\DALJSONXG\\Repository.cs",
+              "RelativeDocumentMoniker": "DALJSONXG\\Repository.cs",
+              "ToolTip": "D:\\4sem\\pp\\lab1-3\\DALJSONXG\\Repository.cs",
+              "RelativeToolTip": "DALJSONXG\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:54:31.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4sem\\pp\\lab1-3\\Test_XXG\\Program.cs",
+              "RelativeDocumentMoniker": "Test_XXG\\Program.cs",
+              "ToolTip": "D:\\4sem\\pp\\lab1-3\\Test_XXG\\Program.cs",
+              "RelativeToolTip": "Test_XXG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:45:05.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
